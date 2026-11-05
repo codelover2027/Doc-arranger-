@@ -1,0 +1,8 @@
+{
+  "name": "DocArrange AI - Document Arranger & Error Fixer",
+  "description": "Smart document arranger, structural reorganizer, and AI error fixer to transform rough files into publication-ready documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
